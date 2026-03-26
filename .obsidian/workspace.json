@@ -11,14 +11,10 @@
             "id": "e23a9936dd91f45d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KV Cache.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "KV Cache"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KV Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "KV Cache 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KV Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "KV Cache 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -183,52 +177,52 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e23a9936dd91f45d",
+  "active": "b3a199073705f29c",
   "lastOpenFiles": [
-    "MLA.md",
-    "MoE.md",
-    "MoE代码解读.md",
-    "on_policy_distill.md",
-    "RoPE.md",
+    "面上2026/面上Figure1.md",
+    "面上2026",
+    "归档/德州扑克_standrad.md",
+    "归档/德州扑克n人局概率变化图.png",
+    "归档/德州扑克.txt",
+    "归档/德州扑克.md",
+    "归档/poker_probability_visualization.py",
+    "归档/poker_probability_chart.png",
+    "归档/GRPO噪声模型分析_修复版.md",
     "归档/GRPO_theoretical_analysis.md",
     "归档/GRPO_noise_model_theory.md",
     "归档/GRPO_dynamics_analysis_v2.md",
     "归档/GRPO_dynamics_analysis.md",
+    "归档",
     "test.md",
-    "workflow.md",
-    "未命名 1.base",
-    "未命名.base",
-    "未命名 2.base",
-    "未命名",
-    "Seedance 拆解/seedance 能力.md",
-    "assert/Seedance 系统猜测.png",
-    "assert/Pasted image 20260208233309.png",
-    "assert/Pasted image 20260208233226.png",
-    "assert/drawio.svg",
-    "KV Cache.md",
-    "面上2026/面上Figure1.md",
-    "syc.md",
-    "syc.svg",
-    "syc1.svg",
-    "target.svg",
-    "chat_md_exports/chat_20260104_103615.md",
-    "agentic/context engineering & Agentic Engineering.md",
-    "agentic",
-    "assert/效率.svg",
-    "Seedance 拆解",
-    "target.sv",
-    "效率.s",
-    "效率.sv",
-    "syc1.sg",
-    "syc copy.svg",
+    "paper_radar_system.py",
     "paper/Sparse Reward Subsystem in Large Language Models.md",
-    "paper/Apollo.md",
-    "assert/Pasted image 20260208212901.png",
-    "chat_md_exports/GRPO噪声模型分析.md",
-    "归档/德州扑克.md",
-    "归档/德州扑克_standrad.md",
-    "chat_md_exports/chat_20260104_104533.md",
     "paper/BaseReward.md",
-    "归档/GRPO噪声模型分析_修复版.md"
+    "paper/Apollo.md",
+    "paper",
+    "on_policy_distill.md",
+    "markdown2feishu.py",
+    "convert_html_to_md.py",
+    "chatgpt_conversation.mhtml",
+    "chat_md_exports/chat_20260104_104533.md",
+    "chat_md_exports/GRPO噪声模型分析.md",
+    "chat_md_exports/chat_20260104_103615.md",
+    "chat_md_exports",
+    "assert/效率.svg",
+    "assert/drawio.svg",
+    "assert/Seedance 系统猜测.png",
+    "assert/Pasted image 20260208233527.png",
+    "assert/Pasted image 20260208233226.png",
+    "assert/Pasted image 20260208233309.png",
+    "assert/Pasted image 20260208212901.png",
+    "assert/3c7b827d9746b5130ddf916221eeae9a.jpg",
+    "agentic/context engineering & Agentic Engineering.md",
+    "Seedance 拆解/seedance 能力.md",
+    "RoPE.md",
+    "MoE代码解读.md",
+    "MoE.md",
+    "MLA.md",
+    "KV Cache.md",
+    "README.md",
+    "workflow.md"
   ]
 }
